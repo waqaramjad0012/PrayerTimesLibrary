@@ -17,13 +17,18 @@ Add the dependency to your app’s build.gradle file:
 
 gradle
 
-repositories {
+**repositories {
     maven { url 'https://jitpack.io' }
 }
 
+
 dependencies {
     implementation("com.github.waqaramjad0012:PrayerTimesLibrary:v1.0.2")
-}
+}**
+
+
+
+
 Usage
 1. Initialize the Library
 kotlin
